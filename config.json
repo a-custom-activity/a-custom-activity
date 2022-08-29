@@ -1,0 +1,14 @@
+{
+	"workflowApiVersion": "1.1",
+	"metaData": {
+		"icon": "icon.png",
+		"category": "message"
+	},
+	"userInterfaces": {
+		"configModal": {
+			"height": 200,
+			"width": 300,
+			"fullscreen": true
+		}
+	}
+}
